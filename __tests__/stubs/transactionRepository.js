@@ -1,0 +1,1 @@
+const transactionRepository = () => ({ save: jest.fn(), transactions: jest.fn() })
