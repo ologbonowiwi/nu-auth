@@ -28,3 +28,7 @@ Sinta-se a vontade para colocar novos inputs no projeto conforme queira.
 ## Casos não implementados
 
 Existem dois casos que não consegui implementar a tempo (ops), mas a ideia por trás da minha aplicação foi: qualidade > quantidade. Foquei em cobrir muito bem os casos implementados com testes, e em escrever o código deles da melhor forma possível.
+Os casos não implementados são:
+- `doubled-transaction`
+- `high-frequency-transaction`
+Então se você rodar esses casos, o código vai processar eles normalmente.
