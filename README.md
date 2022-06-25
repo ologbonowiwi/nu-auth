@@ -1,4 +1,4 @@
-# Autorizador Nubank
+# Nu-Auth
 
 Oi! Existem dois processos nesse projeto, você pode:
 
